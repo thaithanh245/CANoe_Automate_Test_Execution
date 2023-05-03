@@ -1,0 +1,13 @@
+{
+    "CANoe_config_directory":
+    {
+        "CANoe_config_direct_directory": "D:\\DATA\\WORK_SPACE\\Programming_Project\\Python\\FPT_Automate_Test_Execute\\CANoe_Config\\CANSystem_HighRes_Autosar.cfg"
+    },
+    "test_execution_sequence":
+    {
+        "precondition_test":
+        {
+            "test_module_name": ""
+        }
+    }
+}
